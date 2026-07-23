@@ -27,15 +27,12 @@ The project is a clean, modern, and fully responsive single-page portfolio built
 ---
 
 ## 📁 Repository Structure
-```text
-├── index.html       # Main HTML structure with embedded CSS styling
-└── README.md        # Project documentation and details
+* **index.html**: Main HTML structure with embedded CSS styling.
+* **README.md**: Project documentation and overview.
 
 ---
 
-💻 Author
-Nourah Hamaad
-
-Information Technology Student
-
-GitHub Profile
+## 💻 Author
+**Nourah Hamaad**  
+*Information Technology Student*  
+* [GitHub Profile](https://github.com/nourahhamaad-jpg)
