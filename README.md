@@ -30,6 +30,9 @@ The project is a clean, modern, and fully responsive single-page portfolio built
 ```text
 ├── index.html       # Main HTML structure with embedded CSS styling
 └── README.md        # Project documentation and details
+
+---
+
 💻 Author
 Nourah Hamaad
 
